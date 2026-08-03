@@ -1,4 +1,3 @@
-<img width="1600" height="1586" alt="image" src="https://github.com/user-attachments/assets/e0db5cd8-b0d4-4baf-a6e6-f1ddac8af6af" /># DC-Position-Control-System
 ## Aim:
 To control the position of motor having the following specifications using MATLAB.<br>
 (J)     moment of inertia of the rotor =    0.02 kg.m^2<br>
